@@ -1,0 +1,4 @@
+miniStore
+=========
+
+my Second Repository
